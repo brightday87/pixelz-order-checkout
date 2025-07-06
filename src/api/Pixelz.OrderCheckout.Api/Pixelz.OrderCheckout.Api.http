@@ -1,0 +1,6 @@
+@Pixelz.OrderCheckout.Api_HostAddress = http://localhost:5249
+
+GET {{Pixelz.OrderCheckout.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
